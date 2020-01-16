@@ -1,0 +1,19 @@
+.wrap{
+    margin-bottom: 20px;
+}
+.Q{
+    color: #f5f5f5;
+    background-color: #f44;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.A{
+    color: #777777;
+    background-color: #f5f5f5;
+    position: relative;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+}
